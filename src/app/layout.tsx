@@ -17,6 +17,7 @@ export default function RootLayout({
   const menuItems = [
     { href: '/', label: 'Transaksi' },
     { href: '/products', label: 'Produk' },
+    { href: '/forecast', label: 'Forecast Penjualan' },  // ← Tambahan ini
   ];
 
   return (

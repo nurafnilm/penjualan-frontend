@@ -1,6 +1,11 @@
 Preview frontend dan fitur dapat diakses di link berikut:
 [Link Preview](https://drive.google.com/file/d/1Hz0tbYhUy3W-2TXwhYDX_toV5-Wo5gat/view?usp=sharing)
 
+Forecast graph and table (update)
+[Link](https://drive.google.com/file/d/1nZaYe26R9a9wMFOFiBbsi58h3Q-1jGYB/view?usp=sharing)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
